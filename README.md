@@ -1,9 +1,7 @@
 ## Welcome to new World
 
-You can use the [editor on GitHub](https://github.com/regitanur/regita.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
+Dalam website ini anda tidak akan menemukan hal-hal yang berfaedah, karena di sini adalah tempat bagi hal-hal yang tidak berfaedah yang sering dilupakan, terlupakan, dan tidak sengaja lupa. 
+Saya berharap setelah membaca website ini hidup anda akan baik-baik saja.
 <h1>Regita Nurfadilah</h1>
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
